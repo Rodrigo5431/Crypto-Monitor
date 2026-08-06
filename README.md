@@ -9,10 +9,29 @@ Um sistema robusto desenvolvido para monitorar oportunidades de arbitragem (Sure
 
 ## 📸 Demonstração da Aplicação
 
-*(Dica: Arraste e solte capturas de tela da sua calculadora e do painel de monitoramento aqui para o GitHub gerar os prints automaticamente!)*
+<div align="center">
+  <h3>Dashboard de Oportunidades</h3>
+  <p>Visão geral do mercado, estatísticas e listagem de sinais ativos.</p>
+  <img src="./assets/Dashboard.png" alt="Dashboard" width="800">
 
-> * **Painel de Monitoramento (Terminal):** Exibe o fluxo de arbitragem, volume e porcentagens de spread em tempo real.
-> * **Calculadora de PnL:** Ferramenta visual para simulação e rastreio de lucro líquido com base no investimento inicial.
+  <br><br>
+
+  <h3>Calculadora de PnL</h3>
+  <p>Ferramenta visual para simulação e rastreio de lucro líquido com base no investimento inicial.</p>
+  <img src="./assets/Calculadora.png" alt="Calculadora" width="800">
+
+  <br><br>
+
+  <h3>Painel Administrativo</h3>
+  <p>Gestão de usuários, status de contas e prazos de expiração do sistema.</p>
+  <img src="./assets/Painel Admin.png" alt="Painel Admin" width="800">
+
+  <br><br>
+
+  <h3>Tela de Login</h3>
+  <p>Interface de autenticação segura e criptografada.</p>
+  <img src="./assets/Tela Login.png" alt="Tela Login" width="800">
+</div>
 
 ---
 
