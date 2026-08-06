@@ -7,6 +7,10 @@ Um sistema robusto desenvolvido para monitorar oportunidades de arbitragem (Sure
 ## 📸 Demonstração da Aplicação
 
 <div align="center">
+  <h3>Visão Geral do Sistema (GIF)</h3>
+  <p>Demonstração em tempo real do monitoramento de ativos e sinais de arbitragem.</p>
+  <img src="./assets/demo.gif" alt="Demonstração em GIF" width="800">
+
   <h3>Dashboard de Oportunidades</h3>
   <p>Visão geral do mercado, estatísticas e listagem de sinais ativos.</p>
   <img src="./assets/Dashboard.png" alt="Dashboard" width="800">
