@@ -1,7 +1,4 @@
-# Olá, sou o Rodrigo! 👋 
-## Desenvolvedor Full Stack & Analista de Dados
-
-### 🚀 Crypto Monitor - Monitor de Arbitragem de Alta Frequência
+# 🚀 Crypto Monitor - Monitor de Arbitragem de Alta Frequência
 
 Um sistema robusto desenvolvido para monitorar oportunidades de arbitragem (Surebets) no mercado de criptomoedas em tempo real. A aplicação rastreia divergências de preços entre mercados Spot e Futuros para identificar spreads lucrativos de forma automatizada.
 
@@ -58,3 +55,11 @@ Um sistema robusto desenvolvido para monitorar oportunidades de arbitragem (Sure
 *O código-fonte deste projeto é proprietário e mantido em um repositório privado. Este espaço é dedicado exclusivamente à exibição técnica do portfólio.*
 
 ---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Rodrigo Carvalho Lima**  
+*Full Stack Software Developer & Data Analyst*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrodrigo-carvalho/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodrigo5431)
